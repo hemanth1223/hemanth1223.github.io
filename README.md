@@ -24,5 +24,7 @@ Here, I list my technical skills, including programming languages, frameworks, l
 If you'd like to get in touch with me, you can reach me through the following channels:
 
 Email: hemanthgowda1223@gmail.com
+
 LinkedIn: [linkedin.com/in/hemanth1223](https://www.linkedin.com/in/hemanth1223)
+
 I'm open to networking, collaborations, and discussing exciting opportunities. Let's connect and create something awesome together!
