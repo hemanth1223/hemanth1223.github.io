@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio Website
 Welcome to my portfolio repository! This portfolio showcases my projects, skills, and education. Feel free to explore the code, projects, and additional resources. If you have any questions or would like to collaborate, don't hesitate to reach out to me using the contact information below.
 
 # Live Portfolio
