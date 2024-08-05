@@ -137,7 +137,3 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 - [baseui](https://github.com/uber/baseweb)
 - [react-reveal](https://www.react-reveal.com/)
 - [styled-components](https://styled-components.com/)
-
-# License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
