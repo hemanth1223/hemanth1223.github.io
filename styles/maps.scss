@@ -1,0 +1,76 @@
+@import './theme.scss';
+
+.mk-maps {
+  width: 100vw;
+  min-height: 100vh;
+
+  .mk-maps-container {
+    max-width: 700px;
+    width: 100%;
+    padding: 100px 0;
+    margin: auto;
+    flex: 1;
+
+    .mk-links a {
+      color: #00ADB5; /* Set color */
+      text-decoration: none; /* Remove underline */
+      font-weight: bold; /* Optional: Make text bold */
+  }
+  
+  .mk-links a:hover {
+      text-decoration: underline; /* Add underline on hover */
+  }  
+
+    .mk-box {
+      background-color: $themeColor2;
+      width: 100%;
+      height: auto;
+      padding: 8%;
+      margin: 0 0 100px 0;
+      border-radius: $defaultBorder;
+
+      .mk-box-heading {
+        font-size: clamp(20px, 6vw, 30px);
+        font-weight: 700;
+        line-height: 1.5;
+        color: $themeColor3;
+      }
+
+      .mk-box-subheading {
+        font-size: clamp(14px, 4vw, 18px);
+        font-weight: 500;
+        line-height: 1.5;
+        color: $themeColor4;
+      }
+
+      .mk-box-para {
+        font-size: clamp(14px, 6vw, 16px);
+        font-weight: 400;
+        line-height: 1.5;
+        color: $themeColor4;
+        margin-top: 4%;
+      }
+
+      .mk-box-icons {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 20px;
+
+        a {
+          color: $themeColor3;
+          font-size: 24px;
+          transition: color 0.3s ease;
+
+          &:hover {
+            color: $themeColor4;
+          }
+        }
+      }
+    }
+
+    .mk-gsv-logo {
+      width: 100%;
+    }
+  }
+}
